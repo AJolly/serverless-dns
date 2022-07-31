@@ -1,4 +1,4 @@
-name = "serverless-dns"
+name = "dns"
 route = ""
 type = "javascript"
 account_id = ""
